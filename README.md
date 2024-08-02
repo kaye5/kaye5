@@ -1,8 +1,9 @@
 ### Hi there 👋 
 I'm Kevin a Software Enginner focused mainly on web development as backend.
-- Daily languages: Java, Javascript, and Python.
-- Daily diet: NoSQL or SQL Database, Spring Boot, React, Express, Cloud Computing.
-- 🔭 ex-intern as Software Engineer at PT Bank Central Asia 
+- Daily languages: Go and Jaavascript.
+- Daily diet: Backend Dev.
+- 🔭 ex-intern as Software Engineer at PT Bank Central Asia
+- 🌱 I’m currently learning and figuring out IoT world
 
 <!--
 **kaye5/kaye5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
